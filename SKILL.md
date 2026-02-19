@@ -4,7 +4,8 @@ description: Distinguish between activities that build real wealth (assets that 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.5305
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transformation
 - wealth-vs.-status-diagnosis
